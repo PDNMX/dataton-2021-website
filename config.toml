@@ -169,6 +169,6 @@ googleAnalytics = ""
 
     [[params.footer.quicklinks]]
       text = "Código de Conducta"
-      link = "/info/coc"
+      link = "/coc"
 
 
