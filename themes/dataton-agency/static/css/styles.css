@@ -296,7 +296,6 @@ fieldset[disabled] .btn-xl.active {
 header {
     padding-top: 100px;
     padding-bottom: 50px;
-    height: 100vh;
 }
 
 .intro-text {
@@ -313,7 +312,8 @@ header {
 }
 
 .intro-text .title1 img {
-    max-width: 70%;
+    max-height: 80vh;
+    max-width: 45vw;
 }
 
 .intro-text .tagline {
@@ -323,56 +323,18 @@ header {
 
 .meta {
     font-weight: 500;
-    font-size: 20px;
+    font-size: 18px;
     color: #606060;
+    min-width: 200px;
+    max-width: 400px;
 }
 
 .meta .fecha {
-    font-size: 1.6em;
-    margin: 1em 0px;
+    font-weight: bold;
+    margin: 1em 0px 0.5em 0px;
 }
 .meta .sede {
-    font-size: 1.2em;
-}
-
-@media(min-width:768px) {
-
-    header .container {
-        padding-top: 50px;
-    }
-
-    .intro-text {
-        display: grid;
-        grid-column-gap: 60px;
-        grid-template-columns: 60% auto;
-        justify-content: center;
-        align-items: end;
-    }
-
-    .intro-text .tagline {
-        display: none;
-    }
-
-    .intro-text .title1 {
-        grid-column: 1;
-    }
-
-    .intro-text .title1 img {
-        max-width: 100%;
-    }    
-
-    .intro-text .title2 { 
-        text-align: left;
-        grid-column: 1;
-        font-size: 36px;
-    }
-
-    .intro-text .meta {
-        text-align: right;
-        grid-column: 2;
-        padding-bottom: 4px;
-    }
- 
+    font-weight: bold;
 }
 
 section {
@@ -1034,6 +996,6 @@ div.sponsors {
     margin: 5px 20px;
 }
 
-.d-flex li {
+.social-buttons li {
     list-style-type: none;
 }

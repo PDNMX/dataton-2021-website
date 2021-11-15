@@ -13,12 +13,12 @@ googleAnalytics = ""
 
   # Metadata for search engines
   name = "Datatón Anticorrupción 2021"
-  description = """El datatón anticorrupción es un evento donde construiremos herramientas 
-  que utilicen datos abiertos con el fin de combatir la corrupción en México."""
+  description = """El datatón anticorrupción es una iniciativa donde construiremos herramientas 
+  que analicen datos abiertos con el fin de combatir la corrupción en México."""
   twitter_user = "@SESNAOficial"
   images = [""]
-  start_date = "2021-12-02T18:00-05:00"
-  end_date = "2021-12-05T18:00-05:00"
+  start_date = "2021-12-02T17:00-05:00"
+  end_date = "2021-12-05T16:00-05:00"
   logo = "/img/logo-navbar.svg"
 
   # Link custom assets relative to /static
@@ -46,11 +46,6 @@ googleAnalytics = ""
       name = "Contexto"
       url = "/contexto"
       weight = 4
-
-    [[menu.main]]
-      url = "/datos"
-      name = "Datos"
-      weight = 6
 
     [[menu.main]]
       url = "/preguntas-frecuentes"
