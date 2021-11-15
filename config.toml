@@ -24,7 +24,7 @@ googleAnalytics = ""
   # Link custom assets relative to /static
   custom_css = []
   custom_js  = []
-  favicon    = "favicon.ico"
+  favicon    = "/favicon.ico"
 
   # 404 error customization
   [params.error404]
