@@ -69,6 +69,10 @@ h1 {
     text-transform: uppercase;
 }
 
+h1.page-title {
+    text-align: center;
+}
+
 .img-centered {
     margin: 0 auto;
 }
@@ -998,4 +1002,9 @@ div.sponsors {
 
 .social-buttons li {
     list-style-type: none;
+}
+
+article#faq h3 {
+    font-size: 1em;
+    font-weight: bold;
 }
