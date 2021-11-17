@@ -174,4 +174,7 @@ googleAnalytics = ""
       text = "Código de Conducta"
       link = "/coc"
 
+    [[params.footer.quicklinks]]
+      text = "Privacidad de datos"
+      link = "/privacidad"
 
