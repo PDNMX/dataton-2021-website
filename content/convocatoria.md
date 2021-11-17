@@ -7,8 +7,9 @@ El equipo de la [Plataforma Digital Nacional](https://plataformadigitalnacional.
 
 #### Tema
 Construiremos herramientas que se puedan utilizar para analizar: 
-* Datos de declaraciones patrimoniales y de intereses.
-* Datos de compras públicas.
+* Datos de declaraciones patrimoniales y de intereses de personas servidoras públicas.
+* Datos de personas servidoras públicas que intervienen en contrataciones públicas.
+* Datos de personas servidoras públicas sancionadas por actos de corrupción.
 
 #### Dirigido a
 Aunque la participación es abierta, consideramos que las personas que más pueden aportar son aquellas con experiencia 

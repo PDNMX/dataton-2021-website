@@ -20,11 +20,12 @@ Sí, cada uno debe llenar la solicitud de participación.
 ## Mecánica
 
 ### ¿Qué datos usaremos?
-* Datos ficticios de declaraciones patrimoniales y de intereses
-* Datos ficticios de compras públicas
-* Fuentes de datos adicionales.
+* Datos de declaraciones patrimoniales y de intereses de personas servidoras públicas.
+* Datos de personas servidoras públicas que intervienen en contrataciones públicas.
+* Datos de personas servidoras públicas sancionadas por actos de corrupción.
 
-Es importante recalcar que los datos que se utilizarán durante el datatón, son ficticios dado que todavía no se cuenta con dichos datos completos en la Plataforma. El objetivo de trabajar con datos ficticios es que los participantes puedan construir herramientas en base a la estructura de datos planteada, y una vez que dichos datos estén disponibles en la plataforma, dichas herramientas podrían ser utilizadas por la sociedad y organismos interesados en analizarlos.
+Es importante recalcar que los datos que se utilizarán durante el Datatón son ficticios, dado que los Formatos de declaración vigentes se publicaron a finales de 2019 y todavía no se cuenta información histórica para analizar. Asimismo, parte de los  datos incluidos en las declaraciones son reservados y no están abiertos al público en general, por ello, las herramientas y algoritmos que nos ayudes a construir servirán para que las personas e instituciones públicas facultadas puedan aplicarlas para detectar posibles casos de corrupción.
+
 
 ### ¿Qué tipo de entregables esperan?
 Los resultados de los algoritmos deberán ser desplegados a través de tableros dinámicos de visualización de datos (dashboard).
@@ -41,4 +42,4 @@ Estaremos usando Discord. Tendremos canales de comunicación para cada equipo, a
 La propiedad intelectual es de los creadores de los proyectos/herramientas. Pero para ser elegibles para premios requerimos que elijan una licencia abierta para que ciudadanos o instituciones puedan usarla para fines no comerciales. Por ejemplo, una licencia [Creative Commons Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/) sería adecuada. 
 
 ### ¿Hay premios?
-Sí. Actualmente estamos definiendo los premios.
+Sí tendremos premios para los equipos ganadores y destacados. Pronto publicaremos más información.
