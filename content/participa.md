@@ -8,7 +8,7 @@ El Datatón Anticorrupción es un evento de participación voluntaria y gratuita
 
 Si te interesa participar, por favor:
 
-1. Llena la solicitud de participación individual ( https://forms.gle/TG2fpJCudedSpSb27 )
+1. Llena la [solicitud de participación individual](https://forms.gle/TG2fpJCudedSpSb27)
 
 2. Únete al [Discord del Dataton 2021 Anticorrupción](https://discord.gg/UHPAdKxMNz) en ingresa al canal [#Bienvenida-ingreso](https://discord.gg/T64r8AhZn2)
 
