@@ -144,6 +144,10 @@ googleAnalytics = ""
         logo = "IMCO_logo.png"
         link = "https://imco.org.mx/"
 
+      [[params.sponsors3]]
+        logo = "HACIENDA.png"
+        link = "https://www.gob.mx/pff"
+
 
     [params.sponsors4_list]
       enable = true
