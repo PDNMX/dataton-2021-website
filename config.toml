@@ -70,11 +70,11 @@ googleAnalytics = ""
 
   # Mentores
   [params.mentores]
-    enable = false
+    enable = true
 
   # Jueces
   [params.jueces]
-    enable = false
+    enable = true
 
   # Sponsors section
   # Los logos de los aliados están en 'static/img/logos'.
