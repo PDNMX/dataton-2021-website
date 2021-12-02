@@ -108,33 +108,10 @@ googleAnalytics = ""
       enable = true
       title = "Con el apoyo de" 
 
-#      [[params.sponsors3]]
-#        logo = "escuela-gobierno2.png"
-#        link = "https://escueladegobierno.itesm.mx"
 
-#      [[params.sponsors3]]
-#        logo = "shcp2.jpg"
-#        link = "https://www.gob.mx/hacienda"
-      
-#      [[params.sponsors3]]
-#        logo = "msft.jpg"
-#        link = "https://developer.microsoft.com/es-es/"
-
-#      [[params.sponsors3]]
-#        logo = "cc.jpg"
-#        link = "https://cc.org.mx/"
-
-#      [[params.sponsors3]]
-#        logo = "asf.jpg"
-#        link = "https://www.asf.gob.mx/Default/Index"
-
-#      [[params.sponsors3]]
-#        logo = "uk2.png"
-#        link = "https://www.gov.uk/world/organisations/british-embassy-mexico-city.es-419"
-
-#      [[params.sponsors3]]
-#        logo = "amazon.jpg"
-#        link = "https://www.amazon.com.mx"
+      [[params.sponsors3]]
+        logo = "amazon.png"
+        link = "https://www.amazon.com.mx"
 
       [[params.sponsors3]]
         logo = "caf2.png"
