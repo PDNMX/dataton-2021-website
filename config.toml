@@ -118,7 +118,7 @@ googleAnalytics = ""
         link = "https://www.caf.com"
 
       [[params.sponsors3]]
-        logo = "IMCO_logo.png"
+        logo = "imco.png"
         link = "https://imco.org.mx/"
 
       [[params.sponsors3]]
